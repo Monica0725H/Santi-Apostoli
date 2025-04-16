@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Try File</title>
+</head>
+<body>
+    <iframe src="./Wi-Fi 大.pdf" width="100%" height="1000px" style="border:none;"></iframe>
+</body>
+</html>
